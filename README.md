@@ -1,10 +1,19 @@
+----------------------------------------------------
 Práctica completa de Kubernetes en Google Cloud
+-----------------------------------------------------
+
+![Clusters creados](https://github.com/user-attachments/assets/d2d3e75a-069d-467a-a90c-1d212b5bb628)
+
+
+
 
 Parte 1: Preparación del entorno
+
 Requisitos previos:
-•	Cuenta en Google Cloud
-•	Google Cloud SDK instalado
-•	Configuración inicial con gcloud init
+-	Cuenta en Google Cloud
+-   Google Cloud SDK instalado
+-	Configuración inicial con gcloud init
+
 Parte 2: Crear un cluster de Kubernetes en Google Cloud
 
 Paso 1: Verificar autenticación
